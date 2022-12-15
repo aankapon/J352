@@ -1,0 +1,22 @@
+.sidebar{
+background-color:white;
+color:red;	
+font-family: "Saira Condensed", sans-serif;	
+}
+.mainheader{
+background-color:red;
+padding:10px 20px 10px;
+color:yellow;
+font-family: "Saira Condensed", sans-serif;
+}
+p {
+font-family:"Saira Condensed", sans-serif;
+}
+
+
+.calloutstyle{
+background-color:red;
+color: white;
+font-size: 1.70rem;
+font-family: 'Saira Condensed', sans-serif;
+}
